@@ -4,7 +4,7 @@ I'm a Senior Software Engineer, collaborating with small and medium companies, b
 
 🖥️ [antonmihai.com](https://www.antonmihai.com/)
 
-🌎 I'm the most productive when I travel!
+🌎 I'm the most productive when I work on challenging projects!
 
 ✋🏼 Reach out to me on [me@antonmihai.com](mailto:me@antonmihai.com?subject=Hi%20Mihai%2C%20let's%20have%20a%20chat) or [LinkedIn](https://www.linkedin.com/in/mihaianton98/)
 
