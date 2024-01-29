@@ -1,6 +1,6 @@
 ### Hi there, I'm Mihai 👋
 
-I'm a Senior Software Engineer, collaborating with small and medium companies, building cool products. In the past, I worked at Bloomberg and Google, did research on AutoML and built a SaaS AI Startup, evaluated at $2M. Moving forward, I aim to collaborate with startups and medium companies, while being active in the startup environment.
+I'm a Senior Software Engineer, collaborating with small and medium companies, building cool products. In the past, I worked at Bloomberg and Google, did research on AutoML and built a SaaS AI Startup. Moving forward, I aim to collaborate with startups and medium companies, while being active in the startup environment.
 
 🖥️ [antonmihai.com](https://www.antonmihai.com/)
 
