@@ -6,7 +6,7 @@ Hi there! I'm Mihai! I've been in the software industry for more than 7 years, s
 
 🌎 I'm the most productive when I work on challenging projects!
 
-✋🏼 Reach out to me on [mihai@aiflow.ltd](mailto:me@mihai@aiflow.ltd?subject=Hi%20Mihai%2C%20let's%20have%20a%20chat) or [LinkedIn](https://www.linkedin.com/in/mihaianton98/)
+✋🏼 Reach out to me on [mihai@aiflow.ltd](mailto:mihai@aiflow.ltd?subject=Hi%20Mihai%2C%20let's%20have%20a%20chat) or [LinkedIn](https://www.linkedin.com/in/mihaianton98/)
 
 📹 [Schedule a meeting](https://www.antonmihai.com/meet)
 
